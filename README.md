@@ -8,3 +8,4 @@ To be midest growth
 * you should to face the Criticism and learn from it 
 #dont be afraid from asking help
 link: [my face book](https://)
+![](https://www.innerdrive.co.uk/wp-content/uploads/2017/05/How-to-develop-a-growth-mindset-.png)
