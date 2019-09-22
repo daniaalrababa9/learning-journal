@@ -1,6 +1,6 @@
 # hello
 ***my name is dania and iam electrical engineer
-## Welcome midest growth 
+## Welcome to midest growth 
  ***to be midest growth 
 /being positive
 2.faced the obstacle 
