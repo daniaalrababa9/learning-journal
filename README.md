@@ -1,6 +1,9 @@
 my name is dania and iam electrical engineer
 ## Welcome midest growth 
-midest growth is about being positive,faced the obstacle and remember always no one start from top.
+to be midest growth 
+1.being positive
+2.faced the obstacle 
+3.remember always no one start from top.
 You can use the [editor on GitHub](https://github.com/daniaalrababa9/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
